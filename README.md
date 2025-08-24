@@ -48,7 +48,7 @@ Follow these steps to set up the backend locally:
 ### Installation
 
 Clone the repository:
-   git clone https://github.com/Ayushsinghcse/Role-Based-Access-Control-for-School-Colleges.git
+   git clone https://github.com/SachinSharma0606/Role_Based_Dashboard_Control.git
    cd student-management-backend
 
 ### Set up a virtual environment:
